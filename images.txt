@@ -1,1 +1,1 @@
-vaultwarden/server:latest
+deluan/navidrome:latest
